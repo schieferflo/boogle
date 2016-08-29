@@ -1,0 +1,110 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 120px;
+    margin: 0px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: gray;
+    margin: 5px;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 22px;
+    font-weight: 150;
+    color: royalblue;
+}
+
+#anmelden {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: whitesmoke;
+    background-color: royalblue;
+    padding: 8px;
+}
+
+#anmeldelink:hover {
+    text-decoration: none;
+    box-shadow: 100px;
+}
+
+.header {
+    height: 40px;
+    width: 500px;
+    margin-left: 80em;
+    margin-top: 2em;
+}
+
+.headers {
+    display: inline-block;
+    padding: 8px;
+}
+
+.headers2 {
+    display: inline-block;
+    padding: 0px;
+}
+
+.headers2:hover {
+    border: 2px;
+    border-color: black;
+}
+
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    width: 460px;
+    height: 250px;
+}
+
+#country {
+    text-align: right;
+}
+
+#mainlink:hover {
+    text-decoration: none; 
+}
+
+#input {
+    height: 30px;
+    width: 450px; 
+    border: 2px solid gray;
+    border-radius: 3px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search {
+    font-family: Helvetica;
+    color: gray;
+    background-color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 140px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+
+
