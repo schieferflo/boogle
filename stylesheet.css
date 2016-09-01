@@ -8,7 +8,8 @@ a:hover {
 }
 
 h1 {
-    font-family: Helvetica;
+    text-align: center;
+    font-family: Fututra;
     font-size: 120px;
     margin: 0px;
 }
@@ -74,6 +75,7 @@ h3 {
 }
 
 #country {
+    margin-top: -20px;
     text-align: right;
 }
 
@@ -103,6 +105,41 @@ h3 {
     margin-right: auto;
     display: block;
 }
+
+#b {
+    font-family: Futura;
+    color: royalblue;
+}
+
+#o1 {
+    font-family: Futura;
+    color: firebrick;
+}
+
+#o2 {
+    font-family: Futura;
+    color: gold;
+}
+
+#g {
+    font-family: Futura;
+    color: royalblue;
+}
+
+#l {
+    font-family: Futura;
+    color: forestgreen;
+}
+
+#e {
+    font-family: Futura;
+    color: firebrick;
+}
+
+
+
+
+
 
 
 
